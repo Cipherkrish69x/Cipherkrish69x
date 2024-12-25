@@ -1,7 +1,7 @@
 # 💫 About Me:
 ### Alla Krishna Vamsi Reddy (cipherkrish69x)
 ### Cybersecurity Professional | Malware Analysis Enthusiast | Digital Forensics Expert
-
+#
 🔭 I’m currently working on<br><br>Researching innovative cybersecurity techniques to protect systems from evolving threats.<br>Strengthening my expertise in malware analysis, penetration testing, and digital forensics.<br><br>👯 I’m looking to collaborate on<br><br>Projects aimed at enhancing network security and developing robust defense mechanisms.<br>Initiatives focused on educating individuals and organizations about cybersecurity best practices.<br><br>🤝 I’m looking for help with<br><br>Implementing advanced machine learning models for threat detection and response.<br>Exploring new tools and frameworks for improving system security and forensic investigations.<br><br>🌱 I’m currently learning<br><br>Advanced penetration testing methodologies for web and network applications.<br>New trends in cybersecurity, including zero-trust architectures and threat intelligence.<br><br>💬 Ask me about<br><br>Cybersecurity strategies, digital forensics, and malware analysis.<br>My experiences in hackathons, internships, and tackling real-world cybersecurity challenges.<br><br>⚡ Fun fact<br><br>I cracked 45,000 hashes in just 24 hours during a hackathon, proving that creative problem-solving is key to tackling cybersecurity challenges!
 
 
